@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833618061267",
+    "firebase_url": "https://nami-s-secret-4a94b.firebaseio.com",
+    "project_id": "nami-s-secret-4a94b",
+    "storage_bucket": "nami-s-secret-4a94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833618061267:android:3cb90ae294ed6b40",
+        "android_client_info": {
+          "package_name": "com.example.android.namissecret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833618061267-hv9q7jb0ihqeo5q0734pkshffg8ibche.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADss8wl8OTKL8ktE09WFFPlRikCvvL53g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
